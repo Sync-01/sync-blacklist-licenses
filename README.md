@@ -36,4 +36,4 @@ Modify the `config.json` file to set up the script according to your needs:
 This script is for personal use. Modification and redistribution should follow the original author's terms.
 
 ---
-**Developed by Sync**
+** 🔰 Developed by Sync 🔰 **
