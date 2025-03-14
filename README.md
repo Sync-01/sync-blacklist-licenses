@@ -18,7 +18,7 @@ Modify the `config.json` file to set up the script according to your needs:
       "license:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
       "license:yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
   ],
-  "blacklist_message": "You Are Blacklisted From This Server By Zedk."
+  "blacklist_message": "You Are Blacklisted From This Server By Sync."
 }
 ```
 
