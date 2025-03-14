@@ -1,0 +1,8 @@
+{
+  "webhook_url": "https://discord.com/api/webhooks/000000000000000000/",
+  "blacklisted_licenses": [
+      "license:8d",
+      "license:9d"
+  ],
+  "blacklist_message": "You Are Blacklisted From This Server By Sync."
+}
